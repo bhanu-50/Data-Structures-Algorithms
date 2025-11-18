@@ -7,3 +7,4 @@
 3.Move all zeros to the end without changing the order of non-zero element. [🔗Link](https://github.com/bhanu-50/Data-Structures-Algorithms/blob/main/week1/Day3.py)  
 4.Given a string, check if it’s a palindrome. [🔗Link](https://github.com/bhanu-50/Data-Structures-Algorithms/blob/main/week1/Day4.py)  
 5.Find the first non-repeating character in a string. [🔗Link](https://github.com/bhanu-50/Data-Structures-Algorithms/blob/main/week1/Day5.py)
+6.Kadane’s Algorithm — Find the maximum subarray sum. [🔗Link](https://github.com/bhanu-50/Data-Structures-Algorithms/blob/main/week1/Day6.py)
