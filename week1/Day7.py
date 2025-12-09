@@ -1,4 +1,4 @@
-#Rotate an array k times (both left and right rotation
+#Rotate an array k times (both left and right rotation)
 #solution 1:
 def reverse(arr,start,end):
    
